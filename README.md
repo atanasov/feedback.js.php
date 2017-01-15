@@ -1,2 +1,2 @@
 # feedback.js.php
-PHP backend for feddback.js
+PHP backend for feedback.js
